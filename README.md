@@ -1,0 +1,2 @@
+# NoMagazine
+NoMagazine Mod
