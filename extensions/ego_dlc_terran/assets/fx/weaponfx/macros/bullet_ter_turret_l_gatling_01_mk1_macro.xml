@@ -1,0 +1,6 @@
+<diff>
+	<replace sel="//macros/macro/properties/ammunition/@value">1000</replace>
+	<replace sel="//macros/macro/properties/ammunition/@reload">0.01</replace>
+	<replace sel="//macros/macro/properties/reload[@time='1.3']"><reload rate="10" /></replace>
+	<replace sel="//macros/macro/properties/damage/@value">100</replace>
+</diff>
