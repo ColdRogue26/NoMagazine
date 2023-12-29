@@ -1,4 +1,4 @@
 <diff>
-	<replace sel="//macro/macro/properties/ammunition/@value">1000000.00</replace>
-	<replace sel="//macros/macro/properties/ammunition/@reload">0.01</replace>
+	<remove sel="//macros/macro/properties/ammunition/@value" />
+	<remove sel="//macros/macro/properties/ammunition/@reload" />
 </diff>

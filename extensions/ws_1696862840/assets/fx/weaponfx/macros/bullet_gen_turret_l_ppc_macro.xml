@@ -1,0 +1,4 @@
+<diff>
+	<remove sel="//macros/macro/properties/ammunition/@value" />
+	<remove sel="//macros/macro/properties/ammunition/@reload" />
+</diff>
